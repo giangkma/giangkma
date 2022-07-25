@@ -1,4 +1,4 @@
-<a href="#" target="_blank">
+<a href="#" target="_blank">d
   <img src="svg/giangkma.svg" width="1200" alt="giangkma-official" />
 </a>
 
